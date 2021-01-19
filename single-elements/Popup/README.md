@@ -7,7 +7,6 @@ Neste tutorial utilizou-se:
 - How to create CSS text columns
 - How to automatically hyphnate words using hyphens
 
-
 ---
 
 # SASS / SCSS Config
