@@ -1,4 +1,10 @@
-# Course Material and FAQ for my Advanced CSS Course
+# Course Material and FAQ for Advanced CSS Course from  Jonas Chmedtmann
+
+Original course repository:  
+https://github.com/jonasschmedtmann/advanced-css-course
+
+Study progress from Dante Marinho:  
+https://github.com/dantovsky/course-advanced-css
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
 
